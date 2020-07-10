@@ -1,23 +1,13 @@
-### Hi there 👋
+# Hola!
 
-<!--
-**arpitbatra123/arpitbatra123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Find me around the internet on the below links:
+- [website](https://arpit.tk)
+- [twitter](https://twitter.com/arpitbatra123)
+- [instagram](https://instagram.com/arpitbatra123)
 
-Here are some ideas to get you started:
+Enjoy this photo I clicked of a cat I recently ran into:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![IMG_0022](https://user-images.githubusercontent.com/21967563/87129198-90f08000-c2ae-11ea-94bc-f8259af350f6.jpg)
 
 
-Welcome to my personal website. I am currently a Product Engineer at [Postman](https://www.getpostman.com/), where you’ll find me either ~~yelling~~ cursing at my computer when my code won't work or laying back in my chair and relishing my brief moments of glory when it does.
 
-Apart from coding to earn the daily bread, sometimes I code for [fun](https://github.com/arpitbatra123) as well and write about things I observe around me. In my free time, I like to read [books](https://arpit.tk/komura), watch tv shows/movies and click [photos](https://unsplash.com/@arpitbatra123/).
-
-This website is my effort at organizing my thoughts and giving them a creative outlet. Happy reading!.
