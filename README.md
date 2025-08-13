@@ -1,8 +1,6 @@
 # Hola!
-
-Find me around the internet on the below links:
 - [visit my website](https://arpit.tk)
-- [follow me on twitter](https://twitter.com/arpitbatra123)
+
 
 If my open source work helped you in any way:
 
